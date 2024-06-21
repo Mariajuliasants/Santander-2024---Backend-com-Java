@@ -31,7 +31,7 @@ public static void main(String[] args) {
         if (atendeu) {
             System.out.println("Conseguimos contato com "+candidato+" na "+tentativasRealizadas+" tentativa");
         }else {
-            System.out.println("Não conseguimos contato com "+candidato+" número máximo de tentativas  "+tentativasRealizadas+ " realizadas");
+            System.out.println("Não conseguimos contato com "+candidato+" número máximo de tentativas  "+tentativasRealizadas+ "");
         }
     }
     //metodo auxiliar
